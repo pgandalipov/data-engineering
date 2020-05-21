@@ -1,4 +1,4 @@
-# How to: Как установить Postgres SQL на Windows
+﻿# How to: Как установить Postgres SQL на Windows
 
 ## Introduction
 В данной инструкции информация по скачиванию и установки Postgres SQL.

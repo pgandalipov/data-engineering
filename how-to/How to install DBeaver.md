@@ -1,4 +1,4 @@
-# How to: Как установить DBeaver на Windows
+﻿# How to: Как установить DBeaver на Windows
 
 ## Introduction
 В данной инструкции информация по скачиванию и установке DBeaver.
